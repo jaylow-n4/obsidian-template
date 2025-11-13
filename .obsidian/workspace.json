@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "32950ad0dc9b8be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "038415cf9a4b1e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eb939f6c06c4af1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "MyKanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "MyKanban"
+            }
+          },
+          {
+            "id": "46bcc0726b0ab46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be815427d3c1c90b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ff1bd4ddc3e009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6955921c482fe97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "4e0909a1ad9b9c60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "88fadad505aa6632",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed24d55cf7416ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed7d83de93d63f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_notes/無題のカンバン.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "無題のカンバンへのバックリンク"
+            }
+          },
+          {
+            "id": "f1d373984d25aec3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_notes/無題のカンバン.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "無題のカンバンからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "82abd3e2626e7ad4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "617d3f61d9f033a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_notes/無題のカンバン.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "無題のカンバンのアウトライン"
+            }
+          },
+          {
+            "id": "b951d518bf534e77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:今日のデイリーノートを開く": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": true,
+      "bases:Create new base": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-kanban:カンバンボードを新規作成": false
+    }
+  },
+  "active": "46bcc0726b0ab46b",
+  "lastOpenFiles": [
+    "MyKanban.md",
+    "README.md",
+    "02_notes/2025/11/20251113_NOTITLE.md",
+    "02_notes/2025/11",
+    "02_notes/2025",
+    "02_notes/無題のカンバン.md",
+    "00_templates/task.md",
+    "03_tasks/2025/11/20251113_.md",
+    "03_tasks/2025/11",
+    "03_tasks/2025",
+    "00_templates/diary.md",
+    "01_diary/2025/11/20251113_.md",
+    "01_diary/2025/11/2025-11-13.md",
+    "03_tasks/無題のファイル 1.md",
+    "01_diary/2025/11",
+    "01_diary/2025",
+    "00_templates/note.md",
+    "02_notes/2025/20251113_notitle.md",
+    "00_templates/無題のフォルダ",
+    "99_data-view",
+    "05_temp",
+    "05_develop",
+    "Welcome.md"
+  ]
+}
