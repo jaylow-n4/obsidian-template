@@ -4,55 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "038415cf9a4b1e9f",
+        "id": "b800a908aa1244b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb939f6c06c4af1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MyKanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "MyKanban"
-            }
-          },
-          {
-            "id": "46bcc0726b0ab46b",
+            "id": "2ab0bf06aaa675fe",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "MyKanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "MyKanban"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,25 +167,26 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "46bcc0726b0ab46b",
+  "active": "2ab0bf06aaa675fe",
   "lastOpenFiles": [
-    "README.md",
+    "無題のファイル.canvas",
+    "02_notes/無題のカンバン.md",
+    "00_templates/task.md",
+    "00_templates/diary.md",
+    "00_templates/note.md",
     "MyKanban.md",
+    "README.md",
     "02_notes/2025/11/20251113_NOTITLE.md",
     "02_notes/2025/11",
     "02_notes/2025",
-    "02_notes/無題のカンバン.md",
-    "00_templates/task.md",
     "03_tasks/2025/11/20251113_.md",
     "03_tasks/2025/11",
     "03_tasks/2025",
-    "00_templates/diary.md",
     "01_diary/2025/11/20251113_.md",
     "01_diary/2025/11/2025-11-13.md",
     "03_tasks/無題のファイル 1.md",
     "01_diary/2025/11",
     "01_diary/2025",
-    "00_templates/note.md",
     "02_notes/2025/20251113_notitle.md",
     "00_templates/無題のフォルダ",
     "99_data-view",

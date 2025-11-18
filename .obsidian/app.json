@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "defaultViewMode": "preview",
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true,
   "rightToLeft": false,
   "tabSize": 2,
@@ -10,5 +10,6 @@
   "readableLineLength": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "02_notes",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
 }
