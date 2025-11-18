@@ -8,11 +8,11 @@ kanban-plugin: board
 
 
 
-## ready
+## READY
 
 
 
-## doing
+## DOING
 
 
 
