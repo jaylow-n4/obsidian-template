@@ -4,17 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "b800a908aa1244b8",
+        "id": "126f6fb3aaa94055",
         "type": "tabs",
         "children": [
           {
-            "id": "2ab0bf06aaa675fe",
+            "id": "b67c83a11da7ae48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "kanban",
+              "state": {
+                "file": "MY TODOs.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "MY TODOs"
             }
           }
         ]
@@ -167,15 +177,19 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "e6955921c482fe97",
+  "active": "b67c83a11da7ae48",
   "lastOpenFiles": [
+    "README.md",
+    "MY TODOs.md",
+    "03_wikis/無題のファイル.md",
+    "00_templates/wikis.md",
+    "01_diary/2026/02/2026-02-09.md",
+    "01_diary/2026/02",
+    "01_diary/2026",
     "無題のファイル.canvas",
     "02_notes/無題のカンバン.md",
-    "00_templates/task.md",
     "00_templates/diary.md",
     "00_templates/note.md",
-    "MyKanban.md",
-    "README.md",
     "02_notes/2025/11/20251113_NOTITLE.md",
     "02_notes/2025/11",
     "02_notes/2025",
@@ -190,8 +204,6 @@
     "02_notes/2025/20251113_notitle.md",
     "00_templates/無題のフォルダ",
     "99_data-view",
-    "05_assets",
-    "05_develop",
     "Welcome.md"
   ]
 }

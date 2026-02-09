@@ -23,8 +23,8 @@
       "template": "00_templates/note.md"
     },
     {
-      "folder": "03_tasks",
-      "template": "00_templates/task.md"
+      "folder": "03_wikis",
+      "template": "00_templates/wikis.md"
     }
   ],
   "enable_file_templates": false,
