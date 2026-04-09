@@ -12,6 +12,10 @@ kanban-plugin: board
 
 
 
+## PENDING
+
+
+
 ## DONE
 
 **完了**
@@ -21,6 +25,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":false,"new-note-folder":"03_tasks"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":false,"new-note-folder":"03_tasks"}
 ```
 %%

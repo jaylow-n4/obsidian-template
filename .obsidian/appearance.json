@@ -3,5 +3,6 @@
   "textFontFamily": "Helvetica,Hiragino Sans",
   "monospaceFontFamily": "Monaco,FiraCode Nerd Font Mono",
   "interfaceFontFamily": "Hiragino Sans",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "translucency": true
 }

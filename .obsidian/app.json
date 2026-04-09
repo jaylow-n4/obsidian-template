@@ -11,5 +11,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "02_notes",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useTab": false
 }

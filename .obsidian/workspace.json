@@ -19,6 +19,7 @@
                   "list-collapse": [
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -169,19 +170,19 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
+      "canvas:新規キャンバスを作成": true,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": true,
-      "bases:Create new base": true,
       "templater-obsidian:Templater": true,
+      "bases:新規ベースを作成": true,
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
   "active": "b67c83a11da7ae48",
   "lastOpenFiles": [
-    "README.md",
-    "MY TODOs.md",
     "03_wikis/無題のファイル.md",
+    "MY TODOs.md",
+    "README.md",
     "00_templates/wikis.md",
     "01_diary/2026/02/2026-02-09.md",
     "01_diary/2026/02",
